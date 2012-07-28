@@ -51,6 +51,7 @@ Websockets/live connections/collaborative apps
 ===========================
 socket.io - but I'm looking for another that scales easier
 racer.js - looks extremely promising, but haven't gone to prod with it yet.
+Faye - awesome pub/sub
 
 Webserver utils
 ===============
