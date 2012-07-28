@@ -7,7 +7,7 @@ Web Developement
 ================
 Language preference: 
 small, static: html5/css/js/jquery
-large, dynamic: Coffeescript/Jade/Stylus
+large, dynamic: Coffeescript/Jade/Stylus (with nib for more)
 
 Javascript
 ==========
