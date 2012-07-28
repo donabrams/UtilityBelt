@@ -48,6 +48,7 @@ Express
  - To scale up, use redis for sessions
  - Don't forget to use crsf connect module for safety
 gzippo - don't go to prod without it
+formidable - for very safe file uploads
 
 Websockets/live connections/collaborative apps
 ===========================
