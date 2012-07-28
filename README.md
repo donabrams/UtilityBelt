@@ -45,6 +45,7 @@ heroku app skeleton gist: https://gist.github.com/3194901
 Express
  - To scale up, use redis for sessions
  - Don't forget to use crsf connect module for safety
+gzippo - don't go to prod without it
 
 Websockets/live connections/collaborative apps
 ===========================
