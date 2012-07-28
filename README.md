@@ -79,3 +79,4 @@ aws - great, but a pain to setup the first time
 Misc
 ====
 Tangle - for simple interdependency stuff on client side
+rbytes - generate secure random strings
