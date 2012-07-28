@@ -80,3 +80,4 @@ Misc
 ====
 Tangle - for simple interdependency stuff on client side
 rbytes - generate secure random strings
+optimist - parse CLI options nicely
