@@ -38,6 +38,7 @@ underscore.string - string manipulation made way way easier than native js
 JS testing
 ==========
 mocha/chai - awesome testing, though I don't have this automated yet like I should
+browserling - service that tests across multiple browsers
 jstestdriver - for tests that need to scale
 travisci - continuous integration testing, nice github image badge too
 
