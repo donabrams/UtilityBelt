@@ -34,6 +34,7 @@ url - easy parsing of a url
 q - awesome promises/D implementation
 require.js - when dependencies start having dependencies, use this amd loader
 underscore.string - string manipulation made way way easier than native js
+history.js - client history support that works across all browsers
 
 JS testing
 ==========
